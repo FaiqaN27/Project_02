@@ -81,7 +81,7 @@ a.nav-link{
 }
 /* Contact */
 .contact_bg{
-    background-image: url('./pic4.jpg');
+    background-image: url('../pic4.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
